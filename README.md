@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 computer engineering and computer science student at USC<br><br>email patelreyna2323@gmail.com for inquiries
+💻 computer engineering and computer science student at USC<br><br>email reynapat@usc.edu for inquiries
 
 
 ## 🌐 Socials:
