@@ -145,14 +145,6 @@ class Reyna:
 
 <p align="center">✦ ✧ ✦ ✧ ⋆ ✦ ✧ ✦ ✧ ⋆ ✦ ✧ ✦ ✧ ⋆ ✦</p>
 
-## ✎ lab notes
-
-- [x] flash Pi firmware + GPIO test
-- [x] train HRV → stress trajectory
-- [x] debug I2C addr 0x68
-- [ ] model Kepler-452b light curve ★
-- [ ] Kepler paper draft v2
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=C9A7FF&center=true&vCenter=true&width=520&lines=thanks+for+stopping+by!+%E2%99%A1;fight+on+%E2%9C%8C" />
 </p>
