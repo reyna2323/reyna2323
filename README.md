@@ -23,7 +23,7 @@
 class Reyna:
     school    = "USC Viterbi · class of 2028"
     degree    = "B.S. Computer Engineering & Computer Science"
-    minor     = "Mathematics"   # yes, all three ✓
+    minor     = "Mathematics"   
     lab       = "USC Interaction Lab 🤖"
     papers    = "3 in review (HCI + robotics), 2 in progress"
     building  = ["6-service AWS physiological data pipeline", "HRV → stress trajectory models"]
