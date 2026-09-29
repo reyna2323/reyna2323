@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="https://reynapatel.dev"><img src="https://img.shields.io/badge/%E2%9C%A6%20reynapatel.dev-1a0a22?style=for-the-badge&logo=googlechrome&logoColor=ff8fc7&labelColor=1a0a22&color=4a1d5e" /></a>
-  <a href="https://www.linkedin.com/in/reynapatelegv"><img src="https://img.shields.io/badge/LinkedIn-1a0a22?style=for-the-badge&logo=linkedin&logoColor=c9a7ff&color=4a1d5e" /></a>
-  <a href="mailto:reynapat@usc.edu"><img src="https://img.shields.io/badge/reynapat%40usc.edu-1a0a22?style=for-the-badge&logo=gmail&logoColor=ffd27f&color=4a1d5e" /></a>
-  <a href="https://www.reynapatel.dev/Reyna-Patel-Resume.pdf"><img src="https://img.shields.io/badge/r%C3%A9sum%C3%A9-1a0a22?style=for-the-badge&logo=adobeacrobatreader&logoColor=ff8fc7&color=4a1d5e" /></a>
+  <a href="https://reynapatel.dev"><img src="https://img.shields.io/badge/%E2%9C%A6%20reynapatel.dev-4a1d5e?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/reynapatelegv"><img src="https://img.shields.io/badge/%F0%9F%92%BC%20LinkedIn-4a1d5e?style=for-the-badge" /></a>
+  <a href="mailto:reynapat@usc.edu"><img src="https://img.shields.io/badge/%E2%9C%89%20reynapat%40usc.edu-4a1d5e?style=for-the-badge" /></a>
+  <a href="https://www.reynapatel.dev/Reyna-Patel-Resume.pdf"><img src="https://img.shields.io/badge/%F0%9F%93%84%20r%C3%A9sum%C3%A9-4a1d5e?style=for-the-badge" /></a>
 </p>
 
 <p align="center">✦ ✧ ✦ ✧ ⋆ ✦ ✧ ✦ ✧ ⋆ ✦ ✧ ✦ ✧ ⋆ ✦</p>
@@ -45,6 +45,41 @@ class Reyna:
 - 🪐 exoplanet paper draft v2
 - 🥗 nutrition club site + admin portal
 - 🎥 filming lectures @ USC DEN
+
+<p align="center">✦ ✧ ✦ ✧ ⋆ ✦ ✧ ✦ ✧ ⋆ ✦ ✧ ✦ ✧ ⋆ ✦</p>
+
+## 🔭 featured work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Blossom physiological pipeline</h3>
+      <p>A 6-service AWS pipeline that ingests Fitbit data for an NIH-funded study of CBT delivered by a socially assistive robot.</p>
+      <p><code>AWS</code> <code>DynamoDB</code> <code>Python</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🪐 exoplanet transit periods</h3>
+      <p>Modeling Kepler light curves to predict exoplanet orbital periods at 92% accuracy.</p>
+      <p><code>PyTorch</code> <code>NumPy</code> <code>Matplotlib</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌱 Sproutsy</h3>
+      <p>An AI plant-care app that helps people keep their plants alive.</p>
+      <p><code>React Native</code> <code>Expo</code> <code>Supabase</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>♻️ Recycode</h3>
+      <p>A clothing donation platform that has helped donate over 5,000 lbs of clothing.</p>
+      <p><code>React</code> <code>Firebase</code> <code>Node.js</code></p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://reynapatel.dev"><img src="https://img.shields.io/badge/%E2%9C%A6%20see%20everything%20on%20my%20site%20%E2%86%92-ff8fc7?style=for-the-badge" /></a>
+</p>
 
 <p align="center">✦ ✧ ✦ ✧ ⋆ ✦ ✧ ✦ ✧ ⋆ ✦ ✧ ✦ ✧ ⋆ ✦</p>
 
@@ -86,7 +121,7 @@ class Reyna:
   <br><br>
   <img src="https://img.shields.io/badge/Pandas-1a0a22?style=for-the-badge&logo=pandas&logoColor=ff8fc7" />
   <img src="https://img.shields.io/badge/NumPy-1a0a22?style=for-the-badge&logo=numpy&logoColor=ff8fc7" />
-  <img src="https://img.shields.io/badge/Matplotlib-1a0a22?style=for-the-badge&logo=matplotlib&logoColor=ff8fc7" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%88%20Matplotlib-1a0a22?style=for-the-badge" />
 </p>
 </details>
 
@@ -104,26 +139,19 @@ class Reyna:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark&perline=9" />
   <br><br>
-  <img src="https://img.shields.io/badge/Canva-1a0a22?style=for-the-badge&logo=canva&logoColor=ffd27f" />
+  <img src="https://img.shields.io/badge/%F0%9F%8E%A8%20Canva-1a0a22?style=for-the-badge" />
 </p>
 </details>
 
 <p align="center">✦ ✧ ✦ ✧ ⋆ ✦ ✧ ✦ ✧ ⋆ ✦ ✧ ✦ ✧ ⋆ ✦</p>
 
-## 📡 reyna·scope 9000
+## ✎ lab notes
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=reyna2323&show_icons=true&hide_border=true&bg_color=1a0a22&title_color=ff8fc7&icon_color=ffd27f&text_color=f5e6ff&ring_color=c9a7ff&custom_title=%E2%9C%A6%20reyna2323%20on%20github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyna2323&layout=compact&hide_border=true&bg_color=1a0a22&title_color=ff8fc7&text_color=f5e6ff" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=reyna2323&hide_border=true&background=1a0a22&ring=c9a7ff&fire=ff8fc7&currStreakNum=f5e6ff&sideNums=f5e6ff&currStreakLabel=ff8fc7&sideLabels=c9a7ff&dates=a78bba&stroke=4a1d5e" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=reyna2323&bg_color=1a0a22&color=c9a7ff&line=ff8fc7&point=ffd27f&area=true&area_color=ff8fc7&title_color=ff8fc7&hide_border=true&custom_title=signal%20over%20time%20%E2%9C%A6" />
-</p>
+- [x] flash Pi firmware + GPIO test
+- [x] train HRV → stress trajectory
+- [x] debug I2C addr 0x68
+- [ ] model Kepler-452b light curve ★
+- [ ] Kepler paper draft v2
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=C9A7FF&center=true&vCenter=true&width=520&lines=thanks+for+stopping+by!+%E2%99%A1;fight+on+%E2%9C%8C" />
