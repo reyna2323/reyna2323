@@ -126,7 +126,7 @@ class Reyna:
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=C9A7FF&center=true&vCenter=true&width=520&lines=%E2%9C%A6+every+repo+you+read+lights+a+star+%E2%9C%A6;fight+on+%E2%9C%8C" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=C9A7FF&center=true&vCenter=true&width=520&lines=thanks+for+stopping+by!+%E2%99%A1;fight+on+%E2%9C%8C" />
 </p>
 
 <p align="center">
